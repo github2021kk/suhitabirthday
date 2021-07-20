@@ -1,0 +1,33 @@
+/***************************** Tag Selectors *********************/
+
+body 
+{background-color: #FF6767;
+text-align: center;}
+
+
+h1
+{color: rgb(100, 15, 15);
+font-size: 40px;}
+
+h2
+{color: rgb(100, 15, 15);
+font-size: 35px;}
+
+
+/***************************** Class Selectors *********************/
+
+.home
+{height: 500px;}
+
+.circular
+{border-radius: 100%;}
+
+.colour
+{background-color: #FF6767;}
+
+.photo
+{height: 50px;}
+
+
+.Year
+{font-size: 30px;}
